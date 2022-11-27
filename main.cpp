@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int n;
-    int p=1,s=1;
+    int primo=1,secondo=1;
     cin>>n;
     cout<<primo<<endl<<secondo<<endl;
     int i=3;
